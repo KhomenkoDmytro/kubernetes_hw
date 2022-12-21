@@ -1,0 +1,15 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Kubernetes",
+  "author": "Khomenko Dmytro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "eslint": "^8.29.0",
+    "express": "^4.18.2"
+  },
+  "license": "ISC"
+}
